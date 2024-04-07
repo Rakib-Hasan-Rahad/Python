@@ -1,1 +1,1 @@
-# Web Screaping projects with Python
+# Web Scraping projects with Python Selenium and BeautifulSoup
