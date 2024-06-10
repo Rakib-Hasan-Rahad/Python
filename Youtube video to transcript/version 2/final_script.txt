@@ -1,0 +1,206 @@
+hello everybody and welcome to the Alex
+analyst data analyst boot camp this is
+the first video in the entire playlist
+so if you are watching this and you have
+no idea what's going on congratulations
+you just unwittingly signed up for a
+data analyst boot camp no I'm just
+joking but I'm also being very serious
+so before we progress into a lot of the
+details of this data analytics bootcamp
+which is completely free on my channel I
+am going to tell you about how this came
+to be about three weeks ago I put out
+this post and I'll put it somewhere on
+the screen and basically it was a bit of
+satire I was mostly kind of poking fun
+at boot camps just because they put
+stuff together and they call it a boot
+camp they charge you a ton of money so I
+was like I should start one for free the
+response was just enormous I had like 12
+000 people who liked it and commented on
+it and shared it on all different places
+and people were like no Alex you really
+need to do this so really quickly I'm
+just going to read what I put on
+LinkedIn and then we're gonna dive into
+the actual data analyst bootcamp so what
+I wrote was I should set up a playlist
+called data analyst bootcamp on my
+YouTube channel they'll walk you through
+all the basics of SQL Excel Tableau
+power bi Python and more all accompanied
+by projects and a way to create a
+portfolio website for free once you're
+done with the data analyst bootcamp you
+can go on my GitHub and download the
+certification for free then you can put
+data analyst bootcamp on your resume in
+your experience section now if you don't
+know me I really like satire and so
+again that was a bit satirical I was
+just kind of poking fun but everyone was
+like no Alex you need to actually do
+this this is a fantastic idea so here we
+are I created a completely free data
+analyst bootcamp on my YouTube channel
+I'm going to show you what it looks like
+I'm gonna walk you through it and how
+you can get that certification at the
+end all right so let's take a look at
+the data analyst bootcamp I was not
+being serious about calling it The Alex
+the analyst data analyst bootcamp that
+is a just that's insane so right here we
+have our data analyst bootcamp it is
+private right now but when I release
+this video I'll make it public so
+everybody can see it but let's take a
+look at what's actually in it so at the
+very beginning we have this video how to
+become a data analyst in 2023 this will
+actually be the second video if you're
+watching this video right now this will
+be above it but the very first like real
+video is just this how to become a data
+analyst and I walk through exactly the
+steps I would take now in this boot camp
+is basically going to mimic this it's
+going to be teaching all the things that
+I tell you in that video so we start off
+with things like SQL now this is right
+now all of this SQL Basics all the way
+through SQL intermediate and the more
+advanced like right here that is all in
+Microsoft SQL Server I'm going to be
+making an entire playlist for MySQL
+because that has been highly recommended
+so that everybody can do MySQL so my
+sequels on the way and I'll eventually
+replace this but as for right now it's
+all in Microsoft SQL Server then if we
+scroll down we have projects to
+accompany this so we have the data
+analyst portfolio project which is SQL
+data exploration then we have a data
+cleaning project so two projects data
+exploration and data cleaning wasn't I
+highly recommend taking then next we
+dive into Excel so this is all for data
+analysts right so this is our entire
+Excel series all the way down to our
+full project in Excel then we go on to
+Tableau so how to install Tableau all
+the way down to a full project then
+power bi how to install it all the
+things you need to know all the way down
+to a full project and then we dive into
+python so we have our whole python
+series all the way down to and you
+guessed it a full project now I am at
+the very beginning of this python Series
+this is just the python Basics with the
+first project but I have two other
+projects then I have an entire pandas
+playlist and then I'm going to be making
+a playlist on regular expression uh web
+scraping and a ton of other things
+that'll also add to this bootcamp so
+it's going to get longer the more stuff
+I put out after that I have some other
+projects not just ones like that but I
+have web scraping project using python
+API polls using python for like web
+scraping from different sites then near
+the very end we have some other
+important ones one's like how to create
+a portfolio website for free which is
+taking all those projects that we've
+done throughout this entire boot camp
+and putting it into a free website and
+then we have creating a data analyst
+resume I need to update this because
+this is about two years old and I'm
+going to create a new one for this so in
+the future I will replace this but as of
+right now that's the one that we have
+and none of the very job it's tips on
+how to land a job using LinkedIn these
+are real tips and real methods that I
+would be using to help you find a job
+once you're ready to start applying and
+you have all of this created there's one
+last video at the very end that you
+cannot see which is going to be how to
+get the certification so I'm not just
+gonna go put it out there for anyone to
+just grab and put on their resume you
+have to actually put in the work right
+you have to actually take these lessons
+and learn the information before you get
+the certification that's how it works
+now I'm not going to show you where this
+is because it's very secret but I am
+going to show you what it looks like now
+this says congratulations you've
+completed this data analyst bootcamp you
+did amazing and you deserve a
+certification or something to go along
+with it just so you know we use the
+honor System here okay if you took it
+I'm just gonna trust that you took it
+I'm not verifying any of this and I have
+a small disclaimer at the bottom
+basically saying uh this is all a
+self-paced data analyst bootcamp
+completely for free so this isn't me
+endorsing you in any way just some legal
+disclaimer I don't even know if that's
+necessary but let's take a look right
+here this one's more of the generic one
+verified data analytics bootcamp
+certificate
+um but the other one is the one that I
+think is personally very good um and we
+may not even be able to see it that well
+but it is a certificate of completion
+this certificate is awarded to and
+you'll fill in your name right here
+you'll download this and you'll like
+fill in your name and however you want
+to do that I do it in like word
+um for a successful completion of data
+analytics bootcamp and here I have uh I
+signed it myself because I believe in
+you I I believe that you wouldn't
+tarnish my good name so this is going to
+be how you do that how you look at it
+how you actually download that
+certification but you will only be able
+to see that in the very last video so
+that is the Alex analyst data analyst
+bootcamp I'm actually really excited
+about this and one of the best parts for
+me is I didn't have to do that much
+additional work it was already all there
+all those courses all those tutorials
+all those projects are all already on my
+channel I've just kind of organized them
+so that you don't have to go and try to
+figure it out yourself so I genuinely
+hope that this helps somebody out there
+land a job and learn these skills
+completely for free because data
+analytics should not be expensive
+especially the beginner stuff it should
+just be all available in my opinion I
+don't think we should be charging for
+basic stuff like this so good luck happy
+learning and when you are done and you
+download that certification just tag me
+on LinkedIn or Instagram or Twitter or
+wherever and I'll be sure to like it so
+with that being said good luck
+
+foreign
